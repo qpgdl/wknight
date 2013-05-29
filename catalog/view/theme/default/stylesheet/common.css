@@ -1,0 +1,27 @@
+@charset "utf-8";
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,em,button,article,aside,figcaption,figure,footer,header,hgroup,nav,section { margin: 0; padding: 0; font-family: 'Calibri', Arial, sans-serif,'宋体';}
+ul,li{ list-style:none;}
+body {font-size:12px; line-height:1.6; color:#777; -webkit-text-size-adjust:none;/*google瀏覽器字體允許小于12*/ }
+img, fieldset { border:none; }
+input, textarea { font-size:100%; }
+table { border-collapse:collapse; }
+a {text-decoration:none;}
+
+
+.hidden{display:none;}
+html .selected{ display:block;}
+html{ overflow-x:hidden;}
+
+body{ background:url(../image/bg1.jpg) 0 0 repeat;}
+
+
+
+
+/*
+color
+#72a018 _lvse
+#87b72a _liang lvse
+*/
+
+
+
